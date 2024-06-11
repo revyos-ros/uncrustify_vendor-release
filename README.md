@@ -1,3 +1,26 @@
+## uncrustify_vendor (jazzy) - 3.0.0-3
+
+The packages in the `uncrustify_vendor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy uncrustify_vendor` on `Tue, 11 Jun 2024 09:46:41 -0000`
+
+The `uncrustify_vendor` package was released.
+
+Version of package(s) in repository `uncrustify_vendor`:
+
+- upstream repository: https://github.com/ament/uncrustify_vendor.git
+- release repository: https://github.com/revyos-ros/uncrustify_vendor-release.git
+- rosdistro version: `3.0.0-2`
+- old version: `3.0.0-2`
+- new version: `3.0.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## uncrustify_vendor (rolling) - 3.1.0-1
 
 The packages in the `uncrustify_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release uncrustify_vendor --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 11:27:34 -0000`
